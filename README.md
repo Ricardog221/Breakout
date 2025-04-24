@@ -11,6 +11,6 @@ Controla una barra para evitar que la pelota caiga, destruye todos los bloques e
 
 ## Créditos
 - Garayzar Ortega Ricardo
-- Lazcano Ortega Miguel Angeñ
+- Lazcano Ortega Miguel Angel
 
 
